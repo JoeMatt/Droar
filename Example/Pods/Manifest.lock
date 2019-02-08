@@ -1,20 +1,16 @@
 PODS:
-  - Droar (1.3.6):
-    - SDVersion
-  - SDVersion (4.3.2)
+  - Droar (1.4.1)
 
 DEPENDENCIES:
   - Droar (from `../`)
-  - SDVersion
 
 EXTERNAL SOURCES:
   Droar:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  Droar: b203e3ed2fbaa96d458911f5c8beac170e5cd714
-  SDVersion: 18f32c835c1543611fcfae3c6accd9a04b90597e
+  Droar: 3184b4e7f3d995d8ab12812f5a86d3238ede4813
 
-PODFILE CHECKSUM: 07d626d4ded86e83b867bf5d9c50daecabba7d7d
+PODFILE CHECKSUM: 2d1d39c91e6fad56152d24408b8a27e4bb3e4824
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3

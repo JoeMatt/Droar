@@ -31,5 +31,4 @@ Droar is a useful tool for displaying runtime information and settings, useful f
   }
 
   s.frameworks = 'UIKit'
-  s.dependency 'SDVersion'
 end
